@@ -21,7 +21,7 @@
 ### Projects
 #### Final Research Project in NEU Course CS5008  - [Link to Project](https://github.com/Spring23-CS5008-BOS-Lionelle/research-project-lucasclii.git)
 
-#### Lyft Back-End Engineering Virtual Experience Program on Forage (Work in Progress)
+
 
 
 
